@@ -1,5 +1,4 @@
 print("Hello")
 print("Welcome to Telusko")
 
-
-print("Hello from Navin")
+print("Thank you Navin for your Great Tutorial")
