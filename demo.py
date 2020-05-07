@@ -1,5 +1,5 @@
 print("Hello")
-print("Welcome to Telusko")
+print("Welcome to prince")
 
 
-print("Hello from Navin")
+print("Hello from prince")
