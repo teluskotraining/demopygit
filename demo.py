@@ -1,5 +1,3 @@
-print("Hello")
-print("Welcome to Telusko")
 
+print("Hello from Diva Khare")
 
-print("Hello from Navin")
